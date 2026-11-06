@@ -718,8 +718,8 @@
     "ro": "romania",
     "de": "germany",
     "nl": "belgium",
-    "en": "international",
-    "pl": "international"
+    "en": "all",
+    "pl": "all"
   },
-  "internationalPolicy": "Shows only confirmed non-Romanian countries (Germany and Belgium). Unconfirmed entries remain in All brothers; no empty country filters are created."
+  "allBrothersPolicy": "One worldwide filter, All brothers, includes every plaque (Romania, Germany, Belgium and unconfirmed). English and Polish select it automatically."
 }
