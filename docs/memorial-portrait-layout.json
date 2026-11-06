@@ -1,0 +1,707 @@
+[
+  {
+    "index": 0,
+    "name": "Gabi",
+    "displayName": "Gabi",
+    "date": "24.03.1980 – 15.08.2026",
+    "file": "assets/remembrance/international/img-20260818-183713-153-784x554.jpg",
+    "imageWidth": 784,
+    "imageHeight": 554,
+    "crop": [
+      292,
+      69,
+      196,
+      250
+    ]
+  },
+  {
+    "index": 1,
+    "name": "Mark",
+    "displayName": "Mark",
+    "date": "30.07.2026",
+    "file": "assets/remembrance/international/marc2026.07.30-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      319,
+      120,
+      171,
+      227
+    ]
+  },
+  {
+    "index": 2,
+    "name": "Tschört",
+    "displayName": "Tschört",
+    "date": "24.01.2026",
+    "file": "assets/remembrance/international/img-20260125-172921-124-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      296,
+      100,
+      194,
+      247
+    ]
+  },
+  {
+    "index": 3,
+    "name": "Bany",
+    "displayName": "Bany",
+    "date": "29.04.2025",
+    "file": "assets/remembrance/international/fb-img-1746002749606.jpg-784x592.jpg",
+    "imageWidth": 784,
+    "imageHeight": 592,
+    "crop": [
+      294,
+      100,
+      196,
+      249
+    ]
+  },
+  {
+    "index": 4,
+    "name": "Obba",
+    "displayName": "Obba",
+    "date": "09.03.2025",
+    "file": "assets/remembrance/international/obba09032025.jpg-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 5,
+    "name": "Edgar",
+    "displayName": "Edgar",
+    "date": "13.12.2024",
+    "file": "assets/remembrance/international/edgar122024-784x612.jpg",
+    "imageWidth": 784,
+    "imageHeight": 612,
+    "crop": [
+      294,
+      112,
+      196,
+      249
+    ]
+  },
+  {
+    "index": 6,
+    "name": "Bimbo",
+    "displayName": "Bimbo",
+    "date": "12.04.2024",
+    "file": "assets/remembrance/international/bimbo04-2024-784x606.jpg",
+    "imageWidth": 784,
+    "imageHeight": 606,
+    "crop": [
+      296,
+      112,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 7,
+    "name": "Manni",
+    "displayName": "Manni",
+    "date": "12.02.2024",
+    "file": "assets/remembrance/international/manni0224-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      108,
+      196,
+      239
+    ]
+  },
+  {
+    "index": 8,
+    "name": "Axel",
+    "displayName": "Axel",
+    "date": "01.01.2024",
+    "file": "assets/remembrance/international/2024-1-axel-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 9,
+    "name": "Reini",
+    "displayName": "Reini",
+    "date": "18.10.2023",
+    "file": "assets/remembrance/international/33-reini1023-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 10,
+    "name": "Edi",
+    "displayName": "Edi",
+    "date": "18.05.2023",
+    "file": "assets/remembrance/international/edi052023-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      292,
+      96,
+      202,
+      253
+    ]
+  },
+  {
+    "index": 11,
+    "name": "Jörg",
+    "displayName": "Jörg",
+    "date": "09.05.2023",
+    "file": "assets/remembrance/international/jrg052023-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 12,
+    "name": "Herbert",
+    "displayName": "Herbert",
+    "date": "18.12.2021",
+    "file": "assets/remembrance/international/31-herbert1221-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 13,
+    "name": "Baui",
+    "displayName": "Baui",
+    "date": "01.12.2021",
+    "file": "assets/remembrance/international/30-baui1221-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 14,
+    "name": "Ali",
+    "displayName": "Ali",
+    "date": "18.05.2021",
+    "file": "assets/remembrance/international/29-ali0521-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      296,
+      100,
+      194,
+      247
+    ]
+  },
+  {
+    "index": 15,
+    "name": "Balu",
+    "displayName": "Balu",
+    "date": "15.12.2020",
+    "file": "assets/remembrance/international/28-balu1220-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      296,
+      100,
+      196,
+      247
+    ]
+  },
+  {
+    "index": 16,
+    "name": "Bap",
+    "displayName": "Bab",
+    "date": "09.08.2020",
+    "file": "assets/remembrance/international/27-bap0820-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      198,
+      247
+    ]
+  },
+  {
+    "index": 17,
+    "name": "Robert",
+    "displayName": "Robert",
+    "date": "01.12.2019",
+    "file": "assets/remembrance/international/26-robert1219-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      100,
+      198,
+      247
+    ]
+  },
+  {
+    "index": 18,
+    "name": "Catto",
+    "displayName": "Chato",
+    "date": "08.12.2018",
+    "file": "assets/remembrance/international/25-catto1218-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      296,
+      102,
+      194,
+      243
+    ]
+  },
+  {
+    "index": 19,
+    "name": "Werner",
+    "displayName": "Werner",
+    "date": "29.11.2018",
+    "file": "assets/remembrance/international/25-werner.29.11.18-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      310,
+      120,
+      159,
+      223
+    ]
+  },
+  {
+    "index": 20,
+    "name": "Lugge",
+    "displayName": "Lugge",
+    "date": "02.09.2018",
+    "file": "assets/remembrance/international/24-lugge0918-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      269,
+      110,
+      237,
+      241
+    ]
+  },
+  {
+    "index": 21,
+    "name": "Tom",
+    "displayName": "Tom",
+    "date": "06.05.2018",
+    "file": "assets/remembrance/international/23-0518tom-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      294,
+      98,
+      196,
+      249
+    ]
+  },
+  {
+    "index": 22,
+    "name": "Peter",
+    "displayName": "Peter",
+    "date": "09.07.2017",
+    "file": "assets/remembrance/international/22-0717peter-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      298,
+      102,
+      180,
+      233
+    ]
+  },
+  {
+    "index": 23,
+    "name": "Ignaz",
+    "displayName": "Ignaz",
+    "date": "14.01.2017",
+    "file": "assets/remembrance/international/21-0117ignaz-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      306,
+      122,
+      176,
+      216
+    ]
+  },
+  {
+    "index": 24,
+    "name": "Marc",
+    "displayName": "Marc",
+    "date": "03.2016",
+    "file": "assets/remembrance/international/20-1603-marc-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      284,
+      114,
+      218,
+      216
+    ]
+  },
+  {
+    "index": 25,
+    "name": "Preise",
+    "displayName": "Preise",
+    "date": "06.07.2016",
+    "file": "assets/remembrance/international/19-1607-preise-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      302,
+      114,
+      171,
+      220
+    ]
+  },
+  {
+    "index": 26,
+    "name": "Peter",
+    "displayName": "Peter",
+    "date": "02.03.2015",
+    "file": "assets/remembrance/international/18-1503-peter-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      310,
+      112,
+      161,
+      229
+    ]
+  },
+  {
+    "index": 27,
+    "name": "Almansy",
+    "displayName": "Almansy",
+    "date": "16.12.2014",
+    "file": "assets/remembrance/international/17-1412-almansy-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      308,
+      112,
+      172,
+      231
+    ]
+  },
+  {
+    "index": 28,
+    "name": "Daddl",
+    "displayName": "Daddl",
+    "date": "06.09.2013",
+    "file": "assets/remembrance/international/16-1309-daddl-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      296,
+      120,
+      192,
+      216
+    ]
+  },
+  {
+    "index": 29,
+    "name": "Marcel",
+    "displayName": "Marcel",
+    "date": "30.06.2013",
+    "file": "assets/remembrance/international/15-1306-marcel-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      318,
+      120,
+      157,
+      227
+    ]
+  },
+  {
+    "index": 30,
+    "name": "Flex",
+    "displayName": "Flex",
+    "date": "21.12.2012",
+    "file": "assets/remembrance/international/14-1212-flex-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      306,
+      116,
+      174,
+      223
+    ]
+  },
+  {
+    "index": 31,
+    "name": "Paddy",
+    "displayName": "Paddy",
+    "date": "18.10.2012",
+    "file": "assets/remembrance/international/13-1210-paddy-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      310,
+      106,
+      169,
+      235
+    ]
+  },
+  {
+    "index": 32,
+    "name": "Frank",
+    "displayName": "Frank",
+    "date": "07.09.2012",
+    "file": "assets/remembrance/international/12-1209-frank-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      304,
+      118,
+      176,
+      221
+    ]
+  },
+  {
+    "index": 33,
+    "name": "Hans",
+    "displayName": "Hans",
+    "date": "29.11.2009",
+    "file": "assets/remembrance/international/11-0911-hans-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      310,
+      118,
+      169,
+      221
+    ]
+  },
+  {
+    "index": 34,
+    "name": "Mopsl",
+    "displayName": "Mopsl",
+    "date": "09.09.2009",
+    "file": "assets/remembrance/international/10-0909-mopsl-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      314,
+      120,
+      163,
+      221
+    ]
+  },
+  {
+    "index": 35,
+    "name": "Stefan",
+    "displayName": "Stefan",
+    "date": "27.05.2008",
+    "file": "assets/remembrance/international/09-0805-stefan-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      314,
+      120,
+      153,
+      218
+    ]
+  },
+  {
+    "index": 36,
+    "name": "Bever",
+    "displayName": "Bever",
+    "date": "20.12.2005",
+    "file": "assets/remembrance/international/08-0512-bever-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      308,
+      120,
+      165,
+      218
+    ]
+  },
+  {
+    "index": 37,
+    "name": "Siggi",
+    "displayName": "Siggi",
+    "date": "19.06.2005",
+    "file": "assets/remembrance/international/07-0506-siggi-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      308,
+      125,
+      163,
+      216
+    ]
+  },
+  {
+    "index": 38,
+    "name": "Bebe",
+    "displayName": "Bebe",
+    "date": "23.09.2004",
+    "file": "assets/remembrance/international/06-0409-bebe-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      312,
+      127,
+      161,
+      206
+    ]
+  },
+  {
+    "index": 39,
+    "name": "Johan",
+    "displayName": "Johan",
+    "date": "19.09.2004",
+    "file": "assets/remembrance/international/05-0409-johan-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      312,
+      127,
+      155,
+      210
+    ]
+  },
+  {
+    "index": 40,
+    "name": "Conny",
+    "displayName": "Conny",
+    "date": "25.09.1996",
+    "file": "assets/remembrance/international/04-9609-conny-784x588.jpg",
+    "imageWidth": 784,
+    "imageHeight": 588,
+    "crop": [
+      304,
+      122,
+      176,
+      223
+    ]
+  },
+  {
+    "index": 41,
+    "name": "Hipp",
+    "displayName": "Hipp",
+    "date": "08.10.1988",
+    "file": "assets/remembrance/international/03-8810-hipp-1024x768.jpg",
+    "imageWidth": 1024,
+    "imageHeight": 768,
+    "crop": [
+      397,
+      159,
+      236,
+      297
+    ]
+  },
+  {
+    "index": 42,
+    "name": "Wolf",
+    "displayName": "Wolf",
+    "date": "22.05.1988",
+    "file": "assets/remembrance/international/02-8805-wolf-1024x768.jpg",
+    "imageWidth": 1024,
+    "imageHeight": 768,
+    "crop": [
+      407,
+      151,
+      205,
+      300
+    ]
+  },
+  {
+    "index": 43,
+    "name": "Nose",
+    "displayName": "Nose",
+    "date": "1986",
+    "file": "assets/remembrance/international/01-8602-nose-1024x768.jpg",
+    "imageWidth": 1024,
+    "imageHeight": 768,
+    "crop": [
+      379,
+      143,
+      261,
+      300
+    ]
+  },
+  {
+    "index": 44,
+    "name": "Mihai",
+    "displayName": "Mihai",
+    "date": "16.06.2011",
+    "file": "assets/remembrance/romania/mihai.jpg",
+    "imageWidth": 138,
+    "imageHeight": 152,
+    "crop": [
+      0,
+      0,
+      138,
+      152
+    ]
+  },
+  {
+    "index": 45,
+    "name": "Vmax",
+    "displayName": "Vmax",
+    "date": "27.03.2008",
+    "file": "assets/remembrance/romania/vmax.jpg",
+    "imageWidth": 108,
+    "imageHeight": 135,
+    "crop": [
+      0,
+      0,
+      108,
+      135
+    ]
+  },
+  {
+    "index": 46,
+    "name": "Tom — 2003",
+    "displayName": "Tom",
+    "date": "22.09.2003",
+    "file": "assets/remembrance/romania/tom.jpg",
+    "imageWidth": 98,
+    "imageHeight": 134,
+    "crop": [
+      0,
+      0,
+      98,
+      134
+    ]
+  }
+]

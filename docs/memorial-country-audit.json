@@ -6,283 +6,720 @@
       "name": "Gabi",
       "image": "assets/remembrance/international/img-20260818-183713-153-784x554.jpg",
       "country": "romania",
-      "evidence": "The original Gabi plaque carries the ROMANIA emblem."
+      "evidence": "The original Gabi plaque carries the ROMANIA emblem.",
+      "portraitCrop": [
+        292,
+        69,
+        196,
+        250
+      ],
+      "displayName": "Gabi",
+      "displayDate": "24.03.1980 – 15.08.2026",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Mark",
       "image": "assets/remembrance/international/marc2026.07.30-784x588.jpg",
       "country": "germany",
-      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)"
+      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)",
+      "portraitCrop": [
+        319,
+        120,
+        171,
+        227
+      ],
+      "displayName": "Mark",
+      "displayDate": "30.07.2026",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Tschört",
       "image": "assets/remembrance/international/img-20260125-172921-124-784x588.jpg",
       "country": "germany",
-      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)"
+      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)",
+      "portraitCrop": [
+        296,
+        100,
+        194,
+        247
+      ],
+      "displayName": "Tschört",
+      "displayDate": "24.01.2026",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Bany",
       "image": "assets/remembrance/international/fb-img-1746002749606.jpg-784x592.jpg",
       "country": "germany",
-      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)"
+      "evidence": "https://trustmc.eu/Chapter.html (German chapter on original plaque)",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        249
+      ],
+      "displayName": "Bany",
+      "displayDate": "29.04.2025",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Obba",
       "image": "assets/remembrance/international/obba09032025.jpg-784x588.jpg",
-      "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "country": "germany",
+      "evidence": "Confirmed by the club administrator on 2026-11-06: Nomads EU belongs to Germany.",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Obba",
+      "displayDate": "09.03.2025",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Edgar",
       "image": "assets/remembrance/international/edgar122024-784x612.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        112,
+        196,
+        249
+      ],
+      "displayName": "Edgar",
+      "displayDate": "13.12.2024",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Bimbo",
       "image": "assets/remembrance/international/bimbo04-2024-784x606.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        296,
+        112,
+        196,
+        247
+      ],
+      "displayName": "Bimbo",
+      "displayDate": "12.04.2024",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Manni",
       "image": "assets/remembrance/international/manni0224-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        108,
+        196,
+        239
+      ],
+      "displayName": "Manni",
+      "displayDate": "12.02.2024",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Axel",
       "image": "assets/remembrance/international/2024-1-axel-784x588.jpg",
       "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Axel",
+      "displayDate": "01.01.2024",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Reini",
       "image": "assets/remembrance/international/33-reini1023-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Reini",
+      "displayDate": "18.10.2023",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Edi",
       "image": "assets/remembrance/international/edi052023-784x588.jpg",
       "country": "romania",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        292,
+        96,
+        202,
+        253
+      ],
+      "displayName": "Edi",
+      "displayDate": "18.05.2023",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Jörg",
       "image": "assets/remembrance/international/jrg052023-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Jörg",
+      "displayDate": "09.05.2023",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Herbert",
       "image": "assets/remembrance/international/31-herbert1221-784x588.jpg",
       "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Herbert",
+      "displayDate": "18.12.2021",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Baui",
       "image": "assets/remembrance/international/30-baui1221-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Baui",
+      "displayDate": "01.12.2021",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Ali",
       "image": "assets/remembrance/international/29-ali0521-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        296,
+        100,
+        194,
+        247
+      ],
+      "displayName": "Ali",
+      "displayDate": "18.05.2021",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Balu",
       "image": "assets/remembrance/international/28-balu1220-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        296,
+        100,
+        196,
+        247
+      ],
+      "displayName": "Balu",
+      "displayDate": "15.12.2020",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
-      "name": "Bap",
+      "name": "Bab",
       "image": "assets/remembrance/international/27-bap0820-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        100,
+        198,
+        247
+      ],
+      "displayName": "Bab",
+      "displayDate": "09.08.2020",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Robert",
       "image": "assets/remembrance/international/26-robert1219-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        100,
+        198,
+        247
+      ],
+      "displayName": "Robert",
+      "displayDate": "01.12.2019",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
-      "name": "Catto",
+      "name": "Chato",
       "image": "assets/remembrance/international/25-catto1218-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        296,
+        102,
+        194,
+        243
+      ],
+      "displayName": "Chato",
+      "displayDate": "08.12.2018",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Werner",
       "image": "assets/remembrance/international/25-werner.29.11.18-784x588.jpg",
       "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "portraitCrop": [
+        310,
+        120,
+        159,
+        223
+      ],
+      "displayName": "Werner",
+      "displayDate": "29.11.2018",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Lugge",
       "image": "assets/remembrance/international/24-lugge0918-784x588.jpg",
       "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "portraitCrop": [
+        269,
+        110,
+        237,
+        241
+      ],
+      "displayName": "Lugge",
+      "displayDate": "02.09.2018",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Tom",
       "image": "assets/remembrance/international/23-0518tom-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        294,
+        98,
+        196,
+        249
+      ],
+      "displayName": "Tom",
+      "displayDate": "06.05.2018",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Peter",
       "image": "assets/remembrance/international/22-0717peter-784x588.jpg",
       "country": null,
-      "evidence": "No explicit country in the reviewed official sources."
+      "evidence": "No explicit country in the reviewed official sources.",
+      "portraitCrop": [
+        298,
+        102,
+        180,
+        233
+      ],
+      "displayName": "Peter",
+      "displayDate": "09.07.2017",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Ignaz",
       "image": "assets/remembrance/international/21-0117ignaz-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        306,
+        122,
+        176,
+        216
+      ],
+      "displayName": "Ignaz",
+      "displayDate": "14.01.2017",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Marc",
       "image": "assets/remembrance/international/20-1603-marc-784x588.jpg",
       "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory."
+      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "portraitCrop": [
+        284,
+        114,
+        218,
+        216
+      ],
+      "displayName": "Marc",
+      "displayDate": "03.2016",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Preise",
       "image": "assets/remembrance/international/19-1607-preise-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        302,
+        114,
+        171,
+        220
+      ],
+      "displayName": "Preise",
+      "displayDate": "06.07.2016",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Peter",
       "image": "assets/remembrance/international/18-1503-peter-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        310,
+        112,
+        161,
+        229
+      ],
+      "displayName": "Peter",
+      "displayDate": "02.03.2015",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Almansy",
       "image": "assets/remembrance/international/17-1412-almansy-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        308,
+        112,
+        172,
+        231
+      ],
+      "displayName": "Almansy",
+      "displayDate": "16.12.2014",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Daddl",
       "image": "assets/remembrance/international/16-1309-daddl-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        296,
+        120,
+        192,
+        216
+      ],
+      "displayName": "Daddl",
+      "displayDate": "06.09.2013",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Marcel",
       "image": "assets/remembrance/international/15-1306-marcel-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        318,
+        120,
+        157,
+        227
+      ],
+      "displayName": "Marcel",
+      "displayDate": "30.06.2013",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Flex",
       "image": "assets/remembrance/international/14-1212-flex-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        306,
+        116,
+        174,
+        223
+      ],
+      "displayName": "Flex",
+      "displayDate": "21.12.2012",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Paddy",
       "image": "assets/remembrance/international/13-1210-paddy-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        310,
+        106,
+        169,
+        235
+      ],
+      "displayName": "Paddy",
+      "displayDate": "18.10.2012",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Frank",
       "image": "assets/remembrance/international/12-1209-frank-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        304,
+        118,
+        176,
+        221
+      ],
+      "displayName": "Frank",
+      "displayDate": "07.09.2012",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Hans",
       "image": "assets/remembrance/international/11-0911-hans-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        310,
+        118,
+        169,
+        221
+      ],
+      "displayName": "Hans",
+      "displayDate": "29.11.2009",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Mopsl",
       "image": "assets/remembrance/international/10-0909-mopsl-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        314,
+        120,
+        163,
+        221
+      ],
+      "displayName": "Mopsl",
+      "displayDate": "09.09.2009",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Stefan",
       "image": "assets/remembrance/international/09-0805-stefan-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        314,
+        120,
+        153,
+        218
+      ],
+      "displayName": "Stefan",
+      "displayDate": "27.05.2008",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Bever",
       "image": "assets/remembrance/international/08-0512-bever-784x588.jpg",
       "country": "belgium",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html (Bever - Belgium; Johannes - Belgium)"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html (Bever - Belgium; Johannes - Belgium)",
+      "portraitCrop": [
+        308,
+        120,
+        165,
+        218
+      ],
+      "displayName": "Bever",
+      "displayDate": "20.12.2005",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Siggi",
       "image": "assets/remembrance/international/07-0506-siggi-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        308,
+        125,
+        163,
+        216
+      ],
+      "displayName": "Siggi",
+      "displayDate": "19.06.2005",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Bebe",
       "image": "assets/remembrance/international/06-0409-bebe-784x588.jpg",
       "country": "romania",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        312,
+        127,
+        161,
+        206
+      ],
+      "displayName": "Bebe",
+      "displayDate": "23.09.2004",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Johan",
       "image": "assets/remembrance/international/05-0409-johan-784x588.jpg",
       "country": "belgium",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html (Bever - Belgium; Johannes - Belgium)"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html (Bever - Belgium; Johannes - Belgium)",
+      "portraitCrop": [
+        312,
+        127,
+        155,
+        210
+      ],
+      "displayName": "Johan",
+      "displayDate": "19.09.2004",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Conny",
       "image": "assets/remembrance/international/04-9609-conny-784x588.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        304,
+        122,
+        176,
+        223
+      ],
+      "displayName": "Conny",
+      "displayDate": "25.09.1996",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Hipp",
       "image": "assets/remembrance/international/03-8810-hipp-1024x768.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        397,
+        159,
+        236,
+        297
+      ],
+      "displayName": "Hipp",
+      "displayDate": "08.10.1988",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Wolf",
       "image": "assets/remembrance/international/02-8805-wolf-1024x768.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        407,
+        151,
+        205,
+        300
+      ],
+      "displayName": "Wolf",
+      "displayDate": "22.05.1988",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Nose",
       "image": "assets/remembrance/international/01-8602-nose-1024x768.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        379,
+        143,
+        261,
+        300
+      ],
+      "displayName": "Nose",
+      "displayDate": "1986",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Mihai",
       "image": "assets/remembrance/romania/mihai.jpg",
       "country": "romania",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        0,
+        0,
+        138,
+        152
+      ],
+      "displayName": "Mihai",
+      "displayDate": "16.06.2011",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Vmax",
       "image": "assets/remembrance/romania/vmax.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        0,
+        0,
+        108,
+        135
+      ],
+      "displayName": "Vmax",
+      "displayDate": "27.03.2008",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     },
     {
       "name": "Tom — 2003",
       "image": "assets/remembrance/romania/tom.jpg",
       "country": "germany",
-      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html"
+      "evidence": "https://www.mctrust.ro/MC-Trust-Romania-In-Memory-Of.html",
+      "portraitCrop": [
+        0,
+        0,
+        98,
+        134
+      ],
+      "displayName": "Tom",
+      "displayDate": "22.09.2003",
+      "transcription": "Names and dates transcribed from the original plaque; source discrepancies were not silently replaced by other dates."
     }
-  ]
+  ],
+  "counts": {
+    "romania": 4,
+    "germany": 35,
+    "unconfirmed": 6,
+    "belgium": 2
+  },
+  "languageSelection": {
+    "ro": "romania",
+    "de": "germany",
+    "nl": "belgium",
+    "en": "international",
+    "pl": "international"
+  },
+  "internationalPolicy": "Shows only confirmed non-Romanian countries (Germany and Belgium). Unconfirmed entries remain in All brothers; no empty country filters are created."
 }
