@@ -1,0 +1,22 @@
+/* A quiet maker mark: fragmented at rest, readable on hover, keyboard focus or tap. */
+.footer-tail{display:flex;align-items:center;justify-content:flex-end;gap:20px;flex-shrink:0}
+.creator-signature{display:inline-flex;align-items:center;gap:6px;min-height:32px;margin:0;padding:4px 7px;border:0;background:transparent;color:#8c8c8c;cursor:pointer;vertical-align:middle;white-space:nowrap;text-transform:none;letter-spacing:0;isolation:isolate}
+.signature-by{font:400 9px/1 Barlow,Arial,sans-serif;letter-spacing:1px;color:#999}
+.signature-word{display:inline-flex;align-items:center;gap:1px;min-width:48px;font:italic 400 21px/1.1 Georgia,"Times New Roman",serif}
+.signature-glyph{display:inline-block;opacity:.72;clip-path:polygon(0 0,100% 0,100% 43%,82% 43%,82% 62%,100% 62%,100% 100%,0 100%,0 70%,16% 70%,16% 48%,0 48%);transition:transform .3s ease,opacity .3s ease,color .3s ease}
+.signature-glyph:nth-child(1){transform:translate(-1px,-1px) rotate(-12deg)}
+.signature-glyph:nth-child(2){transform:translate(0,2px) rotate(10deg)}
+.signature-glyph:nth-child(3){transform:translate(0,-2px) rotate(-14deg)}
+.signature-glyph:nth-child(4){transform:translate(0,1px) rotate(9deg)}
+.signature-glyph:nth-child(5){transform:translate(1px,-1px) rotate(-10deg)}
+.creator-signature.is-revealed .signature-glyph,.creator-signature:focus-visible .signature-glyph{transform:none;clip-path:inset(0);opacity:1;color:var(--gold,#b69a64)}
+@media(hover:hover){.creator-signature:hover .signature-glyph{transform:none;clip-path:inset(0);opacity:1;color:var(--gold,#b69a64)}}
+@media(max-width:800px){.footer-tail{width:100%;justify-content:space-between;gap:16px}.creator-signature{padding-left:0}}
+@media(prefers-reduced-motion:reduce){.signature-glyph{transition:none}}
+
+.creator-mail{position:relative;display:inline-flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;line-height:0}
+.creator-qr-small{display:block;width:44px;height:44px;border:0;background:white}
+.creator-qr-preview{display:none;position:absolute;bottom:calc(100% + 12px);right:0;padding:6px;background:white;border:1px solid #444;box-shadow:0 4px 18px #0008;z-index:8;pointer-events:none}
+.creator-qr-preview img{display:block;width:128px;height:128px;max-width:none;background:white}
+.creator-mail:focus-visible .creator-qr-preview{display:block}
+@media(hover:hover){.creator-mail:hover .creator-qr-preview{display:block}}

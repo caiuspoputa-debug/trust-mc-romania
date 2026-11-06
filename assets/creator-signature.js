@@ -1,0 +1,1 @@
+(()=>{'use strict';document.querySelectorAll('.creator-signature').forEach(button=>{button.addEventListener('click',()=>{const revealed=button.classList.toggle('is-revealed');button.setAttribute('aria-pressed',String(revealed));});});})();
