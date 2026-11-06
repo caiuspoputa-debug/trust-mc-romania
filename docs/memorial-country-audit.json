@@ -125,8 +125,8 @@
     {
       "name": "Axel",
       "image": "assets/remembrance/international/2024-1-axel-784x588.jpg",
-      "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "country": "germany",
+      "evidence": "Confirmed by the club administrator on 2026-11-06: Axel, Werner, Peter (July 2017) and Marc belong to Germany; Herbert and Lugge remain unconfirmed.",
       "portraitCrop": [
         294,
         100,
@@ -290,8 +290,8 @@
     {
       "name": "Werner",
       "image": "assets/remembrance/international/25-werner.29.11.18-784x588.jpg",
-      "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "country": "germany",
+      "evidence": "Confirmed by the club administrator on 2026-11-06: Axel, Werner, Peter (July 2017) and Marc belong to Germany; Herbert and Lugge remain unconfirmed.",
       "portraitCrop": [
         310,
         120,
@@ -335,8 +335,8 @@
     {
       "name": "Peter",
       "image": "assets/remembrance/international/22-0717peter-784x588.jpg",
-      "country": null,
-      "evidence": "No explicit country in the reviewed official sources.",
+      "country": "germany",
+      "evidence": "Confirmed by the club administrator on 2026-11-06: Axel, Werner, Peter (July 2017) and Marc belong to Germany; Herbert and Lugge remain unconfirmed.",
       "portraitCrop": [
         298,
         102,
@@ -365,8 +365,8 @@
     {
       "name": "Marc",
       "image": "assets/remembrance/international/20-1603-marc-784x588.jpg",
-      "country": null,
-      "evidence": "Country not established by the original plaque or the reviewed official directory.",
+      "country": "germany",
+      "evidence": "Confirmed by the club administrator on 2026-11-06: Axel, Werner, Peter (July 2017) and Marc belong to Germany; Herbert and Lugge remain unconfirmed.",
       "portraitCrop": [
         284,
         114,
@@ -710,8 +710,8 @@
   ],
   "counts": {
     "romania": 4,
-    "germany": 35,
-    "unconfirmed": 6,
+    "germany": 39,
+    "unconfirmed": 2,
     "belgium": 2
   },
   "languageSelection": {
