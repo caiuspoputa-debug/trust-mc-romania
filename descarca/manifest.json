@@ -1,25 +1,25 @@
 {
   "schema": 1,
   "packageName": "ro.trustmc.nativeapp",
-  "version": "1.30",
-  "fileName": "TrustMC-1.30.apk",
+  "version": "1.31",
+  "fileName": "TrustMC-1.31.apk",
   "minAndroid": "6.0",
   "apkBytes": 5358839,
-  "apkSha256": "e936a4aba650d2542a877fc86d1dbd593e9aa96a71985096348e4abcf991a78f",
+  "apkSha256": "4ef50b5907218c800aa5ee62605f1509a9481a731849cbadddbd48a13adf0170",
   "kdf": {
     "name": "PBKDF2",
     "hash": "SHA-256",
     "iterations": 600000,
-    "salt": "9200e1ffba7a6bfca85df88ffdde0712"
+    "salt": "137fe2cf64768d9cf7c5ed16cce7f712"
   },
   "cipher": {
     "name": "AES-GCM",
     "keyBits": 256,
     "tagBits": 128,
-    "iv": "215ab82efdd7b9a86bb476ad",
-    "file": "TrustMC-1.30-9200e1ffba7a6bfc.apk.enc",
+    "iv": "77f7accb87a3336c57fd09c2",
+    "file": "TrustMC-1.31-137fe2cf64768d9c.apk.enc",
     "bytes": 5358855,
-    "sha256": "b8c2fc5e2e2727581a514701257a5caeba1f9a53e3e90cc4c910d6d32486360d"
+    "sha256": "52bec80e9627e2d6516e35d6ef1a952cde7d27168bb08d978998bc3c0af24f33"
   },
-  "versionCode": 35
+  "versionCode": 36
 }
