@@ -1,0 +1,8 @@
+*.apk
+*.jks
+*.keystore
+*.p12
+.env
+.env.*
+*password-private*
+*download-private*

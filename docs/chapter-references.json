@@ -1,0 +1,58 @@
+{
+  "reviewedAt": "2026-11-06",
+  "policy": "Display a social link only when supplied and confirmed by the club or directly linked from its official website. No generated usernames or search links.",
+  "domesticDirectory": "https://www.mctrust.ro/",
+  "internationalDirectory": "https://trustmc.eu/Chapter.html",
+  "localChapterWebsites": {
+    "München": "https://trustmc-munich.de/",
+    "Tirschenreuth": "https://www.trustmc-tir.de/",
+    "Franken": "https://trust-franken.de/",
+    "Donauwörth": "https://www.trustmc.de/index.php/history",
+    "Dillingen": "https://www.trustmc.de/index.php/history"
+  },
+  "socialProfiles": [
+    {
+      "chapter": "Botoșani",
+      "profiles": {
+        "facebook": "https://www.facebook.com/TrustMcBotosani",
+        "instagram": "https://www.instagram.com/trustmcbotosani/"
+      },
+      "confirmation": "Provided and assigned by the club administrator in this project conversation"
+    },
+    {
+      "chapter": "Iron Fist Botoșani",
+      "profiles": {
+        "facebook": "https://www.facebook.com/ironfistbotosani"
+      },
+      "confirmation": "Provided and assigned by the club administrator in this project conversation"
+    },
+    {
+      "chapter": "Bistrița",
+      "profiles": {
+        "facebook": "https://www.facebook.com/share/1QLMhcB3fn/"
+      },
+      "confirmation": "Provided and assigned by the club administrator in this project conversation"
+    },
+    {
+      "chapter": "Oțelu Roșu",
+      "profiles": {
+        "facebook": "https://www.facebook.com/share/1DrFEEfXmq/"
+      },
+      "confirmation": "Provided and assigned by the club administrator in this project conversation"
+    },
+    {
+      "chapter": "Iron Fist Bistrița",
+      "profiles": {
+        "instagram": "https://www.instagram.com/ironfistmcbistrita20/"
+      },
+      "confirmation": "Provided and assigned by the club administrator in this project conversation"
+    },
+    {
+      "chapter": "Siam Nomads",
+      "profiles": {
+        "facebook": "https://www.facebook.com/trustmcthailand"
+      },
+      "confirmation": "Linked by the official https://www.trustmc-thailand.com/de website"
+    }
+  ]
+}

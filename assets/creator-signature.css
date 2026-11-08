@@ -1,0 +1,11 @@
+.footer-tail{display:flex;align-items:center;justify-content:flex-end;gap:20px;flex-shrink:0}
+.creator-credit{display:inline-flex;flex-direction:column;align-items:center;gap:5px}
+.creator-signature{font:400 9px/1.2 Barlow,Arial,sans-serif;color:#999;text-transform:none;letter-spacing:.4px;white-space:nowrap}
+@media(max-width:800px){.footer-tail{width:100%;justify-content:space-between;gap:16px}}
+
+.creator-mail{position:relative;display:inline-flex;align-items:center;justify-content:center;flex:0 0 44px;width:44px;height:44px;line-height:0}
+.creator-qr-small{display:block;width:44px;height:44px;border:0;background:white}
+.creator-qr-preview{display:none;position:absolute;bottom:calc(100% + 12px);right:0;padding:6px;background:white;border:1px solid #444;box-shadow:0 4px 18px #0008;z-index:8;pointer-events:none}
+.creator-qr-preview img{display:block;width:128px;height:128px;max-width:none;background:white}
+.creator-mail:focus-visible .creator-qr-preview{display:block}
+@media(hover:hover){.creator-mail:hover .creator-qr-preview{display:block}}

@@ -1,0 +1,37 @@
+{
+  "chapterYears": {
+    "Iași": 2006,
+    "Reșița": 2006,
+    "Nomads": 2009,
+    "Bocșa": 2012,
+    "Oțelu Roșu": 2014,
+    "Botoșani": 2015,
+    "Satu Mare": 2017,
+    "Bistrița": 2021,
+    "Reșița West": 2022,
+    "Iron Fist Bistrița": 2022
+  },
+  "source": "Calendarul TRUST MC 2027, tabel actualizat la 01.11.2026, aniversari consemnate in catalogul aplicatiei. Anul este calculat din anul aniversarii minus numarul de ani.",
+  "unknown": [
+    "Maramureș",
+    "Iron Fist Iași",
+    "Iron Fist Bucovina",
+    "Iron Fist Central",
+    "Iron Fist Reșița West",
+    "Iron Fist Botoșani",
+    "Black Fist Riders Club"
+  ],
+  "countryYears": {
+    "România": 2003,
+    "Germania": 1984,
+    "Belgia": 1987,
+    "Thailanda": 2015,
+    "Polonia": 2022,
+    "Nomads EU": 2018
+  },
+  "countrySources": [
+    "https://trustmc.eu/",
+    "https://trustmc-munich.de/index.php/history.html",
+    "https://www.trustmc-thailand.com/de"
+  ]
+}
